@@ -4,12 +4,6 @@
 
 `Instagram is a free photo and video sharing website. People can upload photos or videos and share them with their followers or with a selected group of friends. They can also view, comment and like posts shared by their friends on Instagram.`
 
----
-## [Demo](https://insagram-mern.netlify.app)
-## [Video Demo](https://drive.google.com/file/d/1DSwj8uaLkjdZzjTupv-8VNM8bRZTUWdn/view?usp=sharing)
----
-
-##  [Blog Link](https://medium.com/@mayuriwasu2000/instagram-clone-59d65f203fb1) 
 
 ## Tech Stack :wrench:
 
@@ -63,19 +57,3 @@
 - **Messaging Page**
 ##### From here user can chat with other user
 ![Cart Page](https://github.com/Amanfw13064/Instagram_Front-end/blob/main/public/imagesREADME/chat.png)
-
----
-
-
-
-## Creators :handshake:
-
-#### Aman [GitHub](https://github.com/Amanfw13064) 	:octocat:
-
-#### Rishabh [GitHub](https://github.com/rishu11081998) 	:octocat:
-
-#### Mayuri [GitHub](https://github.com/mayuriwasu1) 	:octocat:
-
-#### Durgesh [GitHub](https://github.com/Durgesh2601) 	:octocat:
-
-#### Faizan [GitHub](https://github.com/faazah) 	:octocat:
