@@ -1,0 +1,90 @@
+.chat-conatiner{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+  
+}
+
+
+.all-chats{
+
+}
+
+.chat-box{
+    
+}
+
+.user-chat-details{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    height: 65px;
+}
+.userchat{
+    font-weight: bold;
+    font-size: 13.5px;
+}
+
+.arrow-img{
+    padding: 2px;
+    width: 20px;
+    margin-left: 19%;
+}
+
+.note{
+    justify-content: end;
+    
+}
+.all-chats-here{
+    background-color: white;
+}
+.chat-box-container{
+    height: 65px;
+    margin-top: 2%;
+    cursor: pointer;
+}
+
+.chat-box-container:hover{
+    height: 65px;
+    margin-top: 2%;
+    cursor: pointer;
+    background-color: rgb(250,250,250);
+}
+.chat-logo{
+    min-width: 50px;
+    min-height: 50px;
+    
+    margin: 5%;
+}
+.chat-tetx{
+    margin: 5px;
+    
+}
+.person-chat{
+    margin: 2px;
+    font-size: 16px;
+
+}
+.sent-time{
+    margin: 4px;
+    font-size: 12px;
+    /* font-weight: bold; */
+    color: #8e8e8e;
+
+}
+
+.all-chats-here{
+    height: 550px;
+    overflow: scroll;
+}
+
+
+/* SendMessage */
+
+.sendMsg{
+
+    /* border: 1px solid black; */
+
+    /* border: 1px solid black; */
+
+    position: relative;
+}
+
